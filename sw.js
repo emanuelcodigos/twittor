@@ -8,14 +8,14 @@ const APP_SHELL = [
                   
     /*'/',*/
     'index.html',
-    '/css/style.css',
-    '/img/favicon.ico',
-    '/img/avatars/hulk.jpg',
-    '/img/avatars/ironman.jpg',
-    '/img/avatars/thor.jpg',
-    '/img/avatars/spiderman.jpg',
-    '/img/avatars/wolverine.jpg',
-    '/js/app.js',
+    'css/style.css',
+    'img/favicon.ico',
+    'img/avatars/hulk.jpg',
+    'img/avatars/ironman.jpg',
+    'img/avatars/thor.jpg',
+    'img/avatars/spiderman.jpg',
+    'img/avatars/wolverine.jpg',
+    'js/app.js',
     'sw-utils.js'
                
     ];
